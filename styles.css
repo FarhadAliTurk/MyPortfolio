@@ -215,10 +215,9 @@ img {
 }
 .home__blob {
   fill: var(--first-color);
-  padding-right:  4px; 
 }
 .home__blob-img {
-  width: 405px;
+  width: 404.9px;
 }
 
 /*BUTTONS*/
